@@ -8,5 +8,6 @@ namespace Kel4_PBO.Service
 {
     public class DataKaryawanService
     {
+        
     }
 }
